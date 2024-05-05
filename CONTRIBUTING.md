@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to {{ project name here }} documentation! Your help is greatly appreciated.
+Thank you for considering contributing to Mynt documentation! Your help is greatly appreciated.
 
 ---
 **!! IMPORTANT !!**
@@ -47,4 +47,4 @@ git push origin feature/new-documentation
 Feedback
 If you have any questions, suggestions, or feedback, please feel free to [open an issue](https://github.com/Binary-Hive/project-documentation/issues) on GitHub.
 
-Thank you for contributing to {{ project name here }} documentation!
+Thank you for contributing to Mynt documentation!
