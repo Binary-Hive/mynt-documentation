@@ -1,5 +1,5 @@
-# project-documentation
-High-level documentation for Mynt
+# Mynt Documentation
+High-level documentation for the Mynt project
 
 ## Overview
 
